@@ -62,12 +62,12 @@ body {
 }
 
 .informacao-principal h1 {
-    font-size: 18px;
+    font-size: 15px;
 
 }
 
 .informacao-principal .temperatura {
-    background-color: red;
+    
     font-size: 68px;
     margin: 20px 0;
 }
